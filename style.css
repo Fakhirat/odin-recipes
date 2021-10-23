@@ -4,7 +4,7 @@ body {
     max-width: 1000px;
     border-style: dotted;
     border-bottom: dotted red;
-    background-image: url(../odin-recipes/recipes/cake.gif);
+    
    
   
 }
@@ -20,6 +20,8 @@ body {
     margin: auto;
     padding-top: 10px;
     padding-bottom: 10px;
+    background-image: url(https://images.unsplash.com/photo-1529832393073-e362750f78b3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3VtbWVyJTIwY2xvdWRzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80);
+   
   
     
    
@@ -33,16 +35,25 @@ body {
     background-color: darkgreen;
     border: aqua;
     border-radius: 20px;
+    background-image: url(https://cdn.valio.fi/mediafiles/ef135df5-0cce-4c1c-8c91-d9219eef391c/1600x1200-recipe-data/4x3/trio-kakku.jpg);
+    background-size:cover;
+    background-position: center;
+    
 }
 .suola {
     background-color: darkred;
     border-radius: 20px;  
     margin-left: 100px;
+    background-image: url(https://sanremo.imgix.net/2017/05/Traditional-Lasagna-Plated-1500x1000.jpg?auto=format&w=2000);
+    background-position: center;
+    background-size: cover;
 }
 .aamu {
     background-color: darkslateblue;
     border-radius: 20px;
-    
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Havregr%C3%B8d_p%C3%A5_vand.JPG/250px-Havregr%C3%B8d_p%C3%A5_vand.JPG);
+    background-position: center;
+    background-size: cover;
 }
 
 .ruoka {
