@@ -1,0 +1,64 @@
+body {
+    color: red;
+    margin: auto;
+    max-width: 1000px;
+    border-style: dotted;
+    border-bottom: dotted red;
+    background-image: url(../odin-recipes/recipes/cake.gif);
+   
+  
+}
+
+.mainheader {
+    text-align: center;
+    text-shadow: royalblue;
+    background-color: black;
+    width: 400px;
+    border-radius: 50px;
+    border-style: dotted;
+    border: dotted 10px red;
+    margin: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  
+    
+   
+
+}
+
+
+
+
+.makea {
+    background-color: darkgreen;
+    border: aqua;
+    border-radius: 20px;
+}
+.suola {
+    background-color: darkred;
+    border-radius: 20px;  
+    margin-left: 100px;
+}
+.aamu {
+    background-color: darkslateblue;
+    border-radius: 20px;
+    
+}
+
+.ruoka {
+    display: inline-block;
+    margin-top: 25px;
+    margin-bottom: 25px;
+  
+    width: 250px;
+    height: auto;
+    font-size: 40px;
+    font-weight: bold;
+    border: 5px aqua;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+    border-style:solid;
+    
+  
+}
